@@ -1,20 +1,35 @@
-# 🌐 Greetings! I'm Ali Çömez (aka **Slaweally**) – Empowering the Web through Open-source and Optimization 🌍
+# 🌐 Hey there, I'm Ali Çömez (aka **Slaweally**) 
 
-"If it doesn’t contribute to humanity, it’s time to move on." – *Slaweally*
+### Empowering the Web through Open-source and Optimization 🌍
 
-With a strong foundation in **web hosting**, **server management**, **system optimization**, and **website development**, I’m here to make the digital world more efficient and accessible. Whether it's optimizing servers, enhancing website performance, or setting up seamless hosting environments, I aim to bring clarity and quality to every project.
+> **"If it doesn’t contribute to humanity, it’s time to move on."**  
+> – *Slaweally*
 
-### 🛠 What I Excel In
-- **Web Hosting & Server Management**: Crafting stable, secure, and scalable server environments.
-- **System Optimization**: Streamlining systems to maximize performance and efficiency.
-- **Website Setup & Customization**: Building, refining, and customizing web experiences for functionality and aesthetic appeal.
+---
 
-### 🌱 Advocate of Open-source
-I'm a firm believer in the power of open-source and freedom of information. I use, contribute to, and freely share resources to help others along the way.
+### 🛠 **What I Excel In**
+- **🌐 Web Hosting & Server Management**  
+  Crafting stable, secure, and scalable server environments.
+  
+- **⚙️ System Optimization**  
+  Streamlining systems to maximize performance and efficiency.
+  
+- **🖥️ Website Setup & Customization**  
+  Building, refining, and customizing web experiences for functionality and aesthetic appeal.
 
-### 📬 Connect with Me
-- **Personal Blog**: [rootali.net](https://rootali.net/)
-- **Free Uptime Monitor**: [freeuptime.org](https://freeuptime.org/)
-- **Socials**: Find me everywhere as **@slaweally**
+---
 
-Let's optimize, enhance, and innovate together!
+### 🌱 **Advocate of Open-source**
+
+I’m a strong believer in open-source and the freedom to share knowledge. My philosophy: **Use freely, share openly, and contribute where you can.**
+
+---
+
+### 🌐 **Connect with Me**
+[![rootali.net](https://img.shields.io/badge/Blog-rootali.net-blue)](https://rootali.net/)  
+[![freeuptime.org](https://img.shields.io/badge/Uptime%20Monitor-freeuptime.org-green)](https://freeuptime.org/)  
+[![Twitter](https://img.shields.io/twitter/follow/slaweally?style=social)](https://twitter.com/slaweally)
+
+---
+
+**Let’s optimize, enhance, and innovate together!**
