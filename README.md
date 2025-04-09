@@ -2,7 +2,7 @@
 
 ### Empowering the Web through Open-source and Optimization 🌍
 
-> **"If it doesn’t contribute to humanity, it’s time to move on."**  
+> **"There is no point in living if your life is not useful to other people."**  
 > – *Slaweally*
 
 
@@ -10,4 +10,3 @@
 
 I’m a strong believer in open-source and the freedom to share knowledge. My philosophy: **Use freely, share openly, and contribute where you can.**
 
-**Let’s optimize, enhance, and innovate together!**
