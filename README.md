@@ -1,23 +1,10 @@
-# 🌐 Hey there, I'm Ali Çömez (aka **Slaweally**) 
+# 🌐 Hey there, I'm **Slaweally**
 
 ### Empowering the Web through Open-source and Optimization 🌍
 
 > **"If it doesn’t contribute to humanity, it’s time to move on."**  
 > – *Slaweally*
 
----
-
-### 🛠 **What I Excel In**
-- **🌐 Web Hosting & Server Management**  
-  Crafting stable, secure, and scalable server environments.
-  
-- **⚙️ System Optimization**  
-  Streamlining systems to maximize performance and efficiency.
-  
-- **🖥️ Website Setup & Customization**  
-  Building, refining, and customizing web experiences for functionality and aesthetic appeal.
-
----
 
 ### 🌱 **Advocate of Open-source**
 
